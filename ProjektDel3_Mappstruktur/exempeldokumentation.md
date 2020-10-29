@@ -32,6 +32,6 @@ Vi har använt oss av objektorientering genom att...
 
 ####Grupparbete
 Vilka klasser och metoder har vem haft ansvar för? 
-HUr har det gått att jobba i grupp? 
+Hur har det gått att jobba i grupp? 
 Var det nåt som blev enklare att vara i grupp än att vara själv? 
 Vad har ni stött på för svårigheter med att jobba i grupp? 
