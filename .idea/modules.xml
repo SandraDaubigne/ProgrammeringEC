@@ -14,10 +14,13 @@
       <module fileurl="file://$PROJECT_DIR$/ExempelInheritance/ExempelInheritance.iml" filepath="$PROJECT_DIR$/ExempelInheritance/ExempelInheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExempelObjectOrientedProgramming/ExempelObjectOrientedProgramming.iml" filepath="$PROJECT_DIR$/ExempelObjectOrientedProgramming/ExempelObjectOrientedProgramming.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExempelProjektDel1/ExempelProjektDel1.iml" filepath="$PROJECT_DIR$/ExempelProjektDel1/ExempelProjektDel1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProgrammeringEC.iml" filepath="$PROJECT_DIR$/ProgrammeringEC.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProjektDel3_Mappstruktur/ProjektDel3_Mappstruktur.iml" filepath="$PROJECT_DIR$/ProjektDel3_Mappstruktur/ProjektDel3_Mappstruktur.iml" />
       <module fileurl="file://$PROJECT_DIR$/RubberDuckDebug/RubberDuckDebug.iml" filepath="$PROJECT_DIR$/RubberDuckDebug/RubberDuckDebug.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestKlassenAggregation/TestKlassenAggregation.iml" filepath="$PROJECT_DIR$/TestKlassenAggregation/TestKlassenAggregation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UML/UML.iml" filepath="$PROJECT_DIR$/UML/UML.iml" />
       <module fileurl="file://$PROJECT_DIR$/ZooAbstraction/ZooAbstraction.iml" filepath="$PROJECT_DIR$/ZooAbstraction/ZooAbstraction.iml" />
       <module fileurl="file://$PROJECT_DIR$/ZooArray/ZooArray.iml" filepath="$PROJECT_DIR$/ZooArray/ZooArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/ZooArrayList/ZooArrayList.iml" filepath="$PROJECT_DIR$/ZooArrayList/ZooArrayList.iml" />
